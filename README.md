@@ -1,0 +1,1 @@
+I completed the Kaggle 5-Day Generative AI Course, developed in collaboration with Google, where I explored some incredible hands-on concepts in the realm of AI, I’ve made all my course notebooks available here!
